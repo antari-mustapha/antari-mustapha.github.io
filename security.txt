@@ -1,0 +1,5 @@
+Contact: mailto:antarishow@gmail.com
+Preferred-Languages: ar, en
+Canonical: https://mustapha-antari.com/.well-known/security.txt
+Policy: Please report vulnerabilities responsibly. No automated scanning abuse.
+Expires: 2027-10-11T00:00:00Z
